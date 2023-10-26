@@ -1,4 +1,4 @@
-### skynet-discord-bot
+### discord-bot
 
 
 
